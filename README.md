@@ -8,8 +8,8 @@ Higor <br>
 Icaro <br>
 Tadeu <br>
 
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
+Higor Martins Rebello: hmrebello.higor@gmail.com<br>
+Icaro Gandine: icarog28@gmail.com<br>
 Tadeu da Penha Moraes Junior: tadeu_junior@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
