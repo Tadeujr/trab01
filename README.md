@@ -18,15 +18,14 @@ Este documento contém a especificação do projeto do banco de dados <nome do p
 
 ### 3.MINI-MUNDO<br>
 
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas) <br>
 Com um grande mercado de prestação de serviços pensamos em criar um aplicativo onde o usuário busque um serviço desejado e através de
 uma lista de prestadores de serviço ele possa ver sua reputação, valor de trabalho, qualidade de serviço avaliação, valor, pontualidade
-e um relatório de serviços acionados pelo usuário e serviços feitos pelo prestador.
+e um relatório de serviços acionados pelo usuário e serviços feitos pelo prestador.<br>
 
 Ao instalar o aplicativo o usuário faz um cadastro, com seu nome, endereço e adiciona um cartão de crédito para pagamento do serviço que
-deseje. Para prestar um serviço o usuário também realizar um cadastro com seu nome, telefone e serviços que serão prestados.
+deseje. Para prestar um serviço o usuário também realizar um cadastro com seu nome, telefone e serviços que serão prestados.<br>
 
-O prestador de serviço tem a opção de aceitar ou recusar o serviço. Quando o serviço for concluído o cliente avalia.
+O prestador de serviço tem a opção de aceitar ou recusar o serviço. Quando o serviço for concluído o cliente avalia.<br>
 
 
 Entrevista com o usuário e identificação dos requisitos.<br>
