@@ -10,7 +10,7 @@ Tadeu <br>
 
 Higor Martins Rebello: hmrebello.higor@gmail.com<br>
 Icaro Gandine: icarog28@gmail.com<br>
-Tadeu da Penha Moraes Junior: tadeu_junior@gmail.com<br>
+Tadeu da Penha Moraes Junior: tadeu_junior@outlook.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
