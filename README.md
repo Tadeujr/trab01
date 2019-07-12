@@ -410,20 +410,9 @@ Antes de mandar a solicitação, o requisitante tem acesso a uma tela que mostra
 ### 11	TUTORIAL COMPLETO DE PASSOS PARA RESTAURACAO DO BANCO E EXECUCAO DE PROCEDIMENTOS ENVOLVIDOS NO TRABALHO PARA OBTENÇÃO DOS RESULTADOS<br>
         Para executar o back up do banco IDo, basta pegar o arquivo na secção 8.2 e  executar o script no PGAdmin.   
 
-        
-### 12   DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
-   * Divisão de tarefas;
-   * Encontrar tabela para left Join, pois quase todas fazem ligação;<br>
-   
-### 13   TRABALHO DE MINERAÇÃO DE DADOS <br>
-        a) captura das informaçõs
-        b) integração com banco de dados em desenvolvimento
-        c) atualização da documentação do trabalho incluindo a mineração de dados
-
-
-### 14 Backup completo do banco de dados postgres 
+### 12 Backup completo do banco de dados postgres 
 
    https://github.com/BD1-IDO-Higo-Icaro-Tadeu/trab01/blob/master/backupIdo
     
->## Marco de Entrega 04/Entrega Final em: (Data definida no cronograma)<br>
+
